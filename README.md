@@ -1,2 +1,3 @@
 # demo_git
-Learning git 
+
+This file is for me to learn git. 
